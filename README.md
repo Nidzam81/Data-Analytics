@@ -1,3 +1,11 @@
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>  
+  
+  
+  
 <h1 align="center">Welcome to my Data Analytic site</h1>  
 <p align="center"> 
 <img src="https://github.com/Nidzam81/Data-analytics/blob/master/nidzam.jpg">
