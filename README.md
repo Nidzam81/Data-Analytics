@@ -1,25 +1,3 @@
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
-</div>  
-<!-- Tab content -->
-<div id="London" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
-</div>
-
-<div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p> 
-</div>
-
-<div id="Tokyo" class="tabcontent">
-  <h3>Tokyo</h3>
-  <p>Tokyo is the capital of Japan.</p>
-</div>
-  
-  
 <h1 align="center">Welcome to my Data Analytic site</h1>  
 <p align="center"> 
 <img src="https://github.com/Nidzam81/Data-analytics/blob/master/nidzam.jpg">
@@ -42,9 +20,11 @@ This academic programme (Business Intelligence and Analytics – BI&A) can be de
 ## Below are my works during the course of my study.  
   
 ### Tableu  
+  
+  
 Description | Link
 ------------ | -------------
-Salary analysis| [Salary analysis](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Salaryanalysis_1/Story1)
+Salary analysis| [Salary analysis](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Salaryanalysis_1/Story1)  
 Property transaction in Malaysia| [Property transaction](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Project2_49/Story1)  
   
 ### PowerBI
