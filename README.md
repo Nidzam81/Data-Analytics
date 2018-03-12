@@ -1,9 +1,9 @@
-## Welcome to my Data Analytic site  
+<h1 align="center">Welcome to my Data Analytic site</h1>  
 <p align="center"> 
 <img src="https://github.com/Nidzam81/Data-analytics/blob/master/nidzam.jpg">
 </p>  
    
-Hi, My Name is Muhammad Nidzam bin Maso'od.
+Hi, My Name is Muhammad Nidzam bin Maso'od.  
 Currently I'm pursuing my Msc in Business Intelligence and Analytics at Advanced Informatics School ,Universiti Teknologi Malaysia.  
 This website is collections of codes and analytics samples done during the course of my study.  
 
@@ -19,8 +19,12 @@ This academic programme (Business Intelligence and Analytics – BI&A) can be de
 
 ## Below are my works during the course of my study.  
   
-### Tableu
-
+### Tableu  
+Description | Link
+------------ | -------------
+Salary analysis| [Salary analysis](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Salaryanalysis_1/Story1)
+Property transaction in Malaysia| [Property transaction](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Project2_49/Story1)  
+  
 ### PowerBI
 
 ### Python
