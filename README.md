@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Data Analytic site</h1>  
 <p align="center"> 
-<img src="https://github.com/Nidzam81/Data-analytics/blob/master/nidzam.jpg">
+<img src="https://github.com/Nidzam81/Data-analytics/blob/master/nidzam.JPG">
 </p>  
    
 Hi, My Name is Muhammad Nidzam bin Maso'od.  
