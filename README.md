@@ -1,7 +1,4 @@
-<h1 align="center">Welcome to my Data Analytic site</h1>  
-<p align="center"> 
-<img src="{{ site.baseurl }}/blob/master/nidzam.jpg">
-</p>  
+![Image of Yaktocat](https://github.com/Nidzam81/Data-analytics/blob/master/nidzam.jpg)
    
 Hi, My Name is Muhammad Nidzam bin Maso'od.  
 Currently I'm pursuing my Msc in Business Intelligence and Analytics at Advanced Informatics School ,Universiti Teknologi Malaysia.  
