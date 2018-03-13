@@ -20,7 +20,7 @@ This academic programme (Business Intelligence and Analytics – BI&A) can be de
 
 ## Below are my works during the course of my study.  
   
-### Tableu  
+## Tableu  
   
   
 Description | Link
@@ -28,11 +28,11 @@ Description | Link
 Salary analysis| [Salary analysis](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Salaryanalysis_1/Story1)  
 Property transaction in Malaysia| [Property transaction](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Project2_49/Story1)  
   
-### PowerBI
+## PowerBI
 
-### Python
+## Python
 
-### R
+## R
 
 
 
