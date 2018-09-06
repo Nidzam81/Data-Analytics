@@ -65,4 +65,4 @@ Data Visualization| [Data Visualization](https://github.com/Nidzam81/Data-analyt
 
 ## Academic performance
 
-[Academic Transcript](https://github.com/Nidzam81/Data-analytics/blob/master/transcript.png)
+[Academic Transcript](https://github.com/Nidzam81/Data-analytics/blob/master/transcript2.png)
