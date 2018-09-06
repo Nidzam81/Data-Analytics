@@ -65,3 +65,4 @@ Data Visualization| [Data Visualization](https://github.com/Nidzam81/Data-analyt
 
 ## Academic performance
 
+[Data Visualization](https://github.com/Nidzam81/Data-analytics/tree/master/Data%20visualization)
