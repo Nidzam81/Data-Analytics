@@ -34,7 +34,9 @@ Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Mach
 
 ## R
 
-## Others
+## BI(Business Intelligence)
+
+## BI(Business Intelligence)
 
 ## Academic performance
 
