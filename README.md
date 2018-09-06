@@ -31,6 +31,14 @@ Vaccination| [Vaccination](https://app.powerbi.com/view?r=eyJrIjoiNTdlZjAwYmMtNz
 
 ## Python
 Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Machine-learning)
+Description | Link
+------------ | -------------
+Churn prediction| [Churn prediction](https://github.com/Nidzam81/Machine-learning/blob/master/Final%20project.ipynb)
+Mushroom classification| [Mushroom classification](https://github.com/Nidzam81/Machine-learning/blob/master/Mushroom%20classification-Final.ipynb)
+Predicting classes of Soybean Disease.| [Desease classification](https://github.com/Nidzam81/Machine-learning/blob/master/Predicting%20classes%20of%20Soybean%20Disease.ipynb)
+Tensor Flow LR | [TF_Linear_reg](https://github.com/Nidzam81/Machine-learning/blob/master/Tensor%20Flow/TF_Linear_reg.ipynb)
+Tensor Flow MNIST | [MNIST](https://github.com/Nidzam81/Machine-learning/blob/master/Tensor%20Flow/TF_knn.ipynb)
+Tensor Flow STOCK | [Stock](https://github.com/Nidzam81/Machine-learning/blob/master/Tensor%20Flow/TF_stock_1m.ipynb)
 
 ## R
 
