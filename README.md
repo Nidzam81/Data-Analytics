@@ -30,7 +30,8 @@ Description | Link
 Vaccination| [Vaccination](https://app.powerbi.com/view?r=eyJrIjoiNTdlZjAwYmMtNzYyMS00NGUwLWJiY2MtMTZjMzczNTVmZThiIiwidCI6IjEwNWIyMDYxLWI2NjktNGIzMS05MmFjLTI0ZDMwNGQxOTVkYyIsImMiOjZ9)
 
 ## Python
-Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Machine-learning)
+###Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Machine-learning)
+
 Description | Link
 ------------ | -------------
 Churn prediction| [Churn prediction](https://github.com/Nidzam81/Machine-learning/blob/master/Final%20project.ipynb)
