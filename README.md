@@ -34,6 +34,7 @@ Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Mach
 
 ## R
 
+## Others
 
-
+## Academic performance
 
