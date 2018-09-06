@@ -30,7 +30,8 @@ Description | Link
 Vaccination| [Vaccination](https://app.powerbi.com/view?r=eyJrIjoiNTdlZjAwYmMtNzYyMS00NGUwLWJiY2MtMTZjMzczNTVmZThiIiwidCI6IjEwNWIyMDYxLWI2NjktNGIzMS05MmFjLTI0ZDMwNGQxOTVkYyIsImMiOjZ9)
 
 ## Python
-###Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Machine-learning)
+
+Machine Learning| [Machine learning repository](https://github.com/Nidzam81/Machine-learning)
 
 Description | Link
 ------------ | -------------
@@ -43,9 +44,15 @@ Tensor Flow STOCK | [Stock](https://github.com/Nidzam81/Machine-learning/blob/ma
 
 ## R
 
-## BI(Business Intelligence)
 
 ## BI(Business Intelligence)
+Business Intelligence| [Business Intelligence repository](https://github.com/Nidzam81/Data-analytics/tree/master/BI)
+
+## DG(Data Governance)
+Data Governance| [Data Governance](https://github.com/Nidzam81/Data-analytics/tree/master/Data%20Governance)
+
+## Data Visualization(Data Visualization)
+Data Visualization| [Data Visualization](https://github.com/Nidzam81/Data-analytics/tree/master/Data%20visualization)
 
 ## Academic performance
 
