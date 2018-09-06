@@ -44,14 +44,23 @@ Tensor Flow STOCK | [Stock](https://github.com/Nidzam81/Machine-learning/blob/ma
 
 ## R
 
+Description | Link
+------------ | -------------
+Assignment2-Q4 | [Assignment2Q4](https://rpubs.com/ijam1301/Assignment_2_Regression_Q4)
+Assignment2-Q2 | [Assignment2Q2](https://rpubs.com/ijam1301/Assignment2_Regression_Q2)
+Assignment2-Q6 | [Assignment2Q6](https://rpubs.com/ijam1301/Assignment_2_Q6)
+Assignment2-Q5 | [Assignment2Q5](https://rpubs.com/ijam1301/Assignment_2_Q5)
 
 ## BI(Business Intelligence)
+
 Business Intelligence| [Business Intelligence repository](https://github.com/Nidzam81/Data-analytics/tree/master/BI)
 
 ## DG(Data Governance)
+
 Data Governance| [Data Governance](https://github.com/Nidzam81/Data-analytics/tree/master/Data%20Governance)
 
 ## Data Visualization(Data Visualization)
+
 Data Visualization| [Data Visualization](https://github.com/Nidzam81/Data-analytics/tree/master/Data%20visualization)
 
 ## Academic performance
