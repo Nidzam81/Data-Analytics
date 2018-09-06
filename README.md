@@ -25,6 +25,7 @@ Salary analysis| [Salary analysis](https://public.tableau.com/profile/muhammad.n
 Property transaction in Malaysia| [Property transaction](https://public.tableau.com/profile/muhammad.nidzam#!/vizhome/Project2_49/Story1)  
   
 ## PowerBI
+Vaccination| [Vaccination](https://app.powerbi.com/view?r=eyJrIjoiNTdlZjAwYmMtNzYyMS00NGUwLWJiY2MtMTZjMzczNTVmZThiIiwidCI6IjEwNWIyMDYxLWI2NjktNGIzMS05MmFjLTI0ZDMwNGQxOTVkYyIsImMiOjZ9)
 
 ## Python
 
